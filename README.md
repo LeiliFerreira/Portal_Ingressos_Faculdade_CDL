@@ -1,6 +1,6 @@
-Esse projeto foi realizado para apresentar como trabalho final na disciplina de Programação Web da faculdade, minha equipe e eu tivemos a ideia de desenvolver uma plataforma de ingressos da própria faculdade para que quando houver eventos as entradas não sejam hospedadas em sites de terceiros, sendo assim, nós pegamos alguns cursos de extensão que a Instituição estava ofertando no período e usamos como exemplos de eventos. Criamos também os ingressos e QRCodes fictícios apenas para representação. Obs: Os QRCodes foram gerados através de um código em Python. 
-
 [Projeto realizado em parceria](https://github.com/joao23599)
+
+Esse projeto foi realizado para apresentar como trabalho final na disciplina de Programação Web da faculdade, minha equipe e eu tivemos a ideia de desenvolver uma plataforma de ingressos da própria faculdade para que quando houver eventos as entradas não sejam hospedadas em sites de terceiros, sendo assim, nós pegamos alguns cursos de extensão que a Instituição estava ofertando no período e usamos como exemplos de eventos. Criamos também os ingressos e QRCodes fictícios apenas para representação. Obs: Os QRCodes foram gerados através de um código em Python. 
 
 Algumas imagens: 
 
