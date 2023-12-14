@@ -1,5 +1,7 @@
 Esse projeto foi realizado para apresentar como trabalho final na disciplina de Programação Web da faculdade, minha equipe e eu tivemos a ideia de desenvolver uma plataforma de ingressos da própria faculdade para que quando houver eventos as entradas não sejam hospedadas em sites de terceiros, sendo assim, nós pegamos alguns cursos de extensão que a Instituição estava ofertando no período e usamos como exemplos de eventos. Criamos também os ingressos e QRCodes fictícios apenas para representação. Obs: Os QRCodes foram gerados através de um código em Python. 
 
+[Projeto realizado em parceria](https://github.com/joao23599)
+
 Algumas imagens: 
 
 ![1](https://github.com/LeiliFerreira/Portal_Ingressos_Faculdade_CDL/assets/72282625/a217139f-cff1-47eb-a87f-b5aabc84e007)
